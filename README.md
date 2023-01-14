@@ -1,10 +1,8 @@
 # This is Hootan Abasi Rocky, a curious developer.
 
-<code>
-
-
-
-</code>
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### Contact me:
 
@@ -20,7 +18,9 @@
 </p>
 
 ---
-<code>&nbsp;</code>
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 ### The languages I code in:
@@ -72,7 +72,9 @@
 
 
 
-<code>&nbsp;</code>
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 
