@@ -9,8 +9,6 @@
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=f4f4f4&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/hootan-abasi-rocky/"></a>
   <a href="https://wa.me/+989331116459"><img
       src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&labelColor=f4f4f4&logo=whatsapp&logoColor=25D366&link=https://wa.me/+989331116459/"></a>
-   <a href="https://codepen.io/"><img
-      src="https://img.shields.io/badge/-codepen-black?style=for-the-badge&labelColor=f4f4f4&logo=codepen&logoColor=black&link=https://codepen.io/"></a> 
 </p>
 
 
