@@ -17,11 +17,10 @@
 ---------------------------------
 
 
-<a href="https://github.com/hootan-rocky/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hootan-rocky&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"></img>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hootan-rocky&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"></img>
-</a>
-
+<div align="center">
+  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=hootan-rocky&theme=dracula" />
+  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hootan-rocky&langs_count=4&theme=dracula" />
+</div>
 
 
 
