@@ -23,7 +23,7 @@
 &nbsp;
 
 
-### The technologies i use:
+### Technologies I use:
 <p align="center">
   <a target="_blank" href="https://javascript.info/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
